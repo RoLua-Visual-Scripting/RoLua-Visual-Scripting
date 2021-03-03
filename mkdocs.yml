@@ -1,9 +1,9 @@
 theme:
   name: material
   
-  nav:
-    - Home: index.md
+nav:
+  - Home: index.md
     
-  markdown_extensions:
-    - admonition
-    - codehilite
+markdown_extensions:
+  - admonition
+  - codehilite
