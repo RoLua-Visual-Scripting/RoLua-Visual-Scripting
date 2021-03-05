@@ -1,1 +1,1 @@
-**Plugin link isn't disponible**
+**Plugin link and group link aren't disponible**
